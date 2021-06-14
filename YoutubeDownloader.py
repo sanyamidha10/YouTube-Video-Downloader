@@ -1,6 +1,6 @@
 from pytube import YouTube
-
-url = "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+# Enter the url of video you want to download
+url = ""
 
 my_video = YouTube(url)
 
